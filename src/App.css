@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: left;
+}
+
+.red{
+  color: red;
+}
+button {
+  text-align: center;
+  margin-left: 35%;
+  width: 40%;
+}

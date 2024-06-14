@@ -1,0 +1,24 @@
+#form-container {
+  display: flex;
+  flex-direction: column;
+ /* Space between each input group */
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  padding: 8px;
+  font-size: 15px;
+  width: 280px;
+  background-color:white;
+  color: black;
+}
+
+.red {
+  color: red;
+  font-size: 12px;
+  margin-top: 0px;
+}
